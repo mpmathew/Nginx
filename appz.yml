@@ -17,8 +17,4 @@
         - 443
     
     properties:
-        SITE_PRIVATE_KEY:
-          vault: SITE_PRIVATE_KEY
-        SITE_CERT:
-          vault: SITE_CERT
-        revision : 3
+        revision : 4
